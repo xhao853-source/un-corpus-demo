@@ -1,0 +1,2106 @@
+{
+  "metadata": {
+    "total_count": 360,
+    "themes": [
+      "和平与安全",
+      "经济发展",
+      "气候环境",
+      "人权",
+      "卫生与健康",
+      "文化教育"
+    ],
+    "last_updated": "2026-05-07",
+    "deleted_count": 154,
+    "kept_count": 360
+  },
+  "data": [
+    {
+      "id": "peace_016",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "States",
+      "zh": "国家",
+      "frequency": 127
+    },
+    {
+      "id": "peace_057",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "United Nations",
+      "zh": "联合国",
+      "frequency": 79
+    },
+    {
+      "id": "peace_021",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "the United Nations",
+      "zh": "联合国",
+      "frequency": 74
+    },
+    {
+      "id": "peace_067",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "nuclear weapons",
+      "zh": "核武器",
+      "frequency": 45
+    },
+    {
+      "id": "health_021",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "mental health",
+      "zh": "精神卫生",
+      "frequency": 30
+    },
+    {
+      "id": "environment_055",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "United Nations",
+      "zh": "联合国",
+      "frequency": 27
+    },
+    {
+      "id": "peace_074",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "nuclear disarmament",
+      "zh": "核裁军",
+      "frequency": 25
+    },
+    {
+      "id": "health_019",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the United Nations",
+      "zh": "联合国",
+      "frequency": 22
+    },
+    {
+      "id": "peace_040",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "terrorism",
+      "zh": "恐怖主义",
+      "frequency": 18
+    },
+    {
+      "id": "peace_083",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "Charter of the United Nations",
+      "zh": "联合国宪章",
+      "frequency": 18
+    },
+    {
+      "id": "environment_083",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Aarhus Convention",
+      "zh": "奥胡斯公约",
+      "frequency": 18
+    },
+    {
+      "id": "peace_061",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "international humanitarian law",
+      "zh": "国际人道法",
+      "frequency": 17
+    },
+    {
+      "id": "health_107",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "human rights",
+      "zh": "人权",
+      "frequency": 17
+    },
+    {
+      "id": "peace_033",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "humanitarian emergencies",
+      "zh": "人道主义",
+      "frequency": 16
+    },
+    {
+      "id": "peace_071",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "General Assembly",
+      "zh": "大会",
+      "frequency": 16
+    },
+    {
+      "id": "peace_081",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "international law",
+      "zh": "国际法",
+      "frequency": 16
+    },
+    {
+      "id": "health_076",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "key populations",
+      "zh": "重点人群",
+      "frequency": 12
+    },
+    {
+      "id": "health_091",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the World Bank",
+      "zh": "世界银行",
+      "frequency": 12
+    },
+    {
+      "id": "health_097",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Social Council",
+      "zh": "社会理事会",
+      "frequency": 12
+    },
+    {
+      "id": "environment_005",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "climate change",
+      "zh": "气候变化",
+      "frequency": 11
+    },
+    {
+      "id": "environment_032",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "the Economic Commission for Europe",
+      "zh": "欧洲经济委员会",
+      "frequency": 11
+    },
+    {
+      "id": "peace_023",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "humanitarian organizations",
+      "zh": "人道主义组织",
+      "frequency": 10
+    },
+    {
+      "id": "environment_001",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Economic Commission for Europe",
+      "zh": "欧洲经济委员会",
+      "frequency": 10
+    },
+    {
+      "id": "peace_008",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "the international community",
+      "zh": "国际社会",
+      "frequency": 9
+    },
+    {
+      "id": "health_037",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "The Programme Coordinating Board",
+      "zh": "方案协调委员会",
+      "frequency": 9
+    },
+    {
+      "id": "health_095",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "civil society",
+      "zh": "民间社会",
+      "frequency": 9
+    },
+    {
+      "id": "peace_036",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "humanitarian principles",
+      "zh": "人道主义原则",
+      "frequency": 8
+    },
+    {
+      "id": "peace_037",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "security",
+      "zh": "安保",
+      "frequency": 8
+    },
+    {
+      "id": "peace_039",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "Charter",
+      "zh": "联合国宪章",
+      "frequency": 8
+    },
+    {
+      "id": "peace_090",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "humanitarian personnel",
+      "zh": "人道主义人员",
+      "frequency": 8
+    },
+    {
+      "id": "health_020",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "HIV infections",
+      "zh": "艾滋病毒感染人数",
+      "frequency": 8
+    },
+    {
+      "id": "peace_002",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "terrorists",
+      "zh": "恐怖分子",
+      "frequency": 7
+    },
+    {
+      "id": "peace_032",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "disasters",
+      "zh": "灾害",
+      "frequency": 7
+    },
+    {
+      "id": "peace_041",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "capacity",
+      "zh": "能力",
+      "frequency": 7
+    },
+    {
+      "id": "peace_086",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "armed conflict",
+      "zh": "武装冲突",
+      "frequency": 7
+    },
+    {
+      "id": "environment_041",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "member States",
+      "zh": "成员国",
+      "frequency": 7
+    },
+    {
+      "id": "environment_042",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "energy systems",
+      "zh": "能源系统",
+      "frequency": 7
+    },
+    {
+      "id": "health_031",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Programme Coordinating Board",
+      "zh": "方案协调委员会",
+      "frequency": 7
+    },
+    {
+      "id": "peace_043",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "disputes",
+      "zh": "争端",
+      "frequency": 6
+    },
+    {
+      "id": "peace_052",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "quality education",
+      "zh": "优质教育",
+      "frequency": 6
+    },
+    {
+      "id": "environment_017",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "international organizations",
+      "zh": "国际组织",
+      "frequency": 6
+    },
+    {
+      "id": "health_052",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "communicable diseases",
+      "zh": "传染性疾病",
+      "frequency": 6
+    },
+    {
+      "id": "health_054",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the World Health Organization",
+      "zh": "世界卫生组织",
+      "frequency": 6
+    },
+    {
+      "id": "health_115",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the Global Fund",
+      "zh": "全球基金",
+      "frequency": 6
+    },
+    {
+      "id": "peace_029",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "emergency situations",
+      "zh": "紧急情况",
+      "frequency": 5
+    },
+    {
+      "id": "peace_069",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "the Security Council",
+      "zh": "安全理事会",
+      "frequency": 5
+    },
+    {
+      "id": "peace_087",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "Special Committee",
+      "zh": "特别委员会",
+      "frequency": 5
+    },
+    {
+      "id": "peace_091",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "regional organizations",
+      "zh": "区域组织",
+      "frequency": 5
+    },
+    {
+      "id": "peace_093",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "refugees",
+      "zh": "难民",
+      "frequency": 5
+    },
+    {
+      "id": "peace_095",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "equipment",
+      "zh": "设备",
+      "frequency": 5
+    },
+    {
+      "id": "environment_011",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "country offices",
+      "zh": "国家办事处",
+      "frequency": 5
+    },
+    {
+      "id": "environment_033",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "humanitarian needs",
+      "zh": "人道主义需求",
+      "frequency": 5
+    },
+    {
+      "id": "environment_035",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Central Asia",
+      "zh": "中亚",
+      "frequency": 5
+    },
+    {
+      "id": "environment_043",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "natural resources",
+      "zh": "自然资源",
+      "frequency": 5
+    },
+    {
+      "id": "human_rights_007",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "country offices",
+      "zh": "国家办事处",
+      "frequency": 5
+    },
+    {
+      "id": "human_rights_026",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "humanitarian needs",
+      "zh": "人道主义需求",
+      "frequency": 5
+    },
+    {
+      "id": "health_008",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "air pollution",
+      "zh": "空气污染",
+      "frequency": 5
+    },
+    {
+      "id": "health_022",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "technical support",
+      "zh": "技术支持",
+      "frequency": 5
+    },
+    {
+      "id": "health_024",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "mental health conditions",
+      "zh": "精神健康问题",
+      "frequency": 5
+    },
+    {
+      "id": "health_029",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Non‑communicable diseases",
+      "zh": "非传染性疾病",
+      "frequency": 5
+    },
+    {
+      "id": "health_043",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Global Fund",
+      "zh": "全球基金",
+      "frequency": 5
+    },
+    {
+      "id": "peace_001",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "humanitarian action",
+      "zh": "人道主义行动",
+      "frequency": 4
+    },
+    {
+      "id": "peace_009",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "primary responsibility",
+      "zh": "主要责任",
+      "frequency": 4
+    },
+    {
+      "id": "peace_010",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "other relevant organizations",
+      "zh": "其他相关组织",
+      "frequency": 4
+    },
+    {
+      "id": "peace_012",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "prevention",
+      "zh": "预防",
+      "frequency": 4
+    },
+    {
+      "id": "peace_018",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "The United Kingdom",
+      "zh": "联合王国",
+      "frequency": 4
+    },
+    {
+      "id": "peace_020",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "human rights questions",
+      "zh": "人权问题",
+      "frequency": 4
+    },
+    {
+      "id": "peace_026",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "means of transport",
+      "zh": "运输工具",
+      "frequency": 4
+    },
+    {
+      "id": "peace_028",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "Crime",
+      "zh": "犯罪问题办公室",
+      "frequency": 4
+    },
+    {
+      "id": "peace_038",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "all parties to armed conflict",
+      "zh": "武装冲突各方",
+      "frequency": 4
+    },
+    {
+      "id": "peace_047",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "disaster risk",
+      "zh": "灾害风险",
+      "frequency": 4
+    },
+    {
+      "id": "peace_055",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "exploitation",
+      "zh": "剥削",
+      "frequency": 4
+    },
+    {
+      "id": "peace_056",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "occupation",
+      "zh": "占领",
+      "frequency": 4
+    },
+    {
+      "id": "peace_063",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "Strategy",
+      "zh": "战略",
+      "frequency": 4
+    },
+    {
+      "id": "peace_066",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "terrorist groups",
+      "zh": "恐怖主义团体",
+      "frequency": 4
+    },
+    {
+      "id": "peace_073",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "electronic evidence",
+      "zh": "电子证据",
+      "frequency": 4
+    },
+    {
+      "id": "peace_078",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "resilience",
+      "zh": "复原力",
+      "frequency": 4
+    },
+    {
+      "id": "peace_080",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "the International Court of Justice",
+      "zh": "国际法院",
+      "frequency": 4
+    },
+    {
+      "id": "peace_082",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "Civilian Persons",
+      "zh": "平民",
+      "frequency": 4
+    },
+    {
+      "id": "peace_084",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "nuclear weapon",
+      "zh": "核武器",
+      "frequency": 4
+    },
+    {
+      "id": "peace_092",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "private sector",
+      "zh": "私营部门",
+      "frequency": 4
+    },
+    {
+      "id": "environment_003",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "the World Trade Organization",
+      "zh": "世界贸易组织",
+      "frequency": 4
+    },
+    {
+      "id": "environment_006",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "the ECE region",
+      "zh": "欧洲经委会区域",
+      "frequency": 4
+    },
+    {
+      "id": "environment_013",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "humanitarian crises",
+      "zh": "人道主义危机",
+      "frequency": 4
+    },
+    {
+      "id": "environment_028",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Digital technologies",
+      "zh": "数字技术",
+      "frequency": 4
+    },
+    {
+      "id": "environment_038",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "anticipatory action",
+      "zh": "预见性行动",
+      "frequency": 4
+    },
+    {
+      "id": "environment_054",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "the World Health Organization",
+      "zh": "世界卫生组织",
+      "frequency": 4
+    },
+    {
+      "id": "environment_088",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "disability inclusion",
+      "zh": "残疾问题",
+      "frequency": 4
+    },
+    {
+      "id": "environment_094",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Justice in Environmental Matters",
+      "zh": "环境维权者",
+      "frequency": 4
+    },
+    {
+      "id": "environment_097",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "private sector",
+      "zh": "私营部门",
+      "frequency": 4
+    },
+    {
+      "id": "human_rights_017",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "caregivers",
+      "zh": "照料者",
+      "frequency": 4
+    },
+    {
+      "id": "human_rights_032",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "anticipatory action",
+      "zh": "预见性行动",
+      "frequency": 4
+    },
+    {
+      "id": "human_rights_040",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "the World Health Organization",
+      "zh": "世界卫生组织",
+      "frequency": 4
+    },
+    {
+      "id": "health_014",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "United Nations agencies",
+      "zh": "联合国机构",
+      "frequency": 4
+    },
+    {
+      "id": "health_071",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "tobacco industry",
+      "zh": "烟草业",
+      "frequency": 4
+    },
+    {
+      "id": "health_106",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the World Health Assembly",
+      "zh": "世界卫生大会",
+      "frequency": 4
+    },
+    {
+      "id": "health_109",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "European Union",
+      "zh": "欧洲联盟",
+      "frequency": 4
+    },
+    {
+      "id": "peace_006",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "Convention",
+      "zh": "公约",
+      "frequency": 3
+    },
+    {
+      "id": "peace_007",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "international peace",
+      "zh": "国际和平",
+      "frequency": 3
+    },
+    {
+      "id": "peace_017",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "medical personnel",
+      "zh": "医护人员",
+      "frequency": 3
+    },
+    {
+      "id": "peace_019",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "humanity",
+      "zh": "人道",
+      "frequency": 3
+    },
+    {
+      "id": "peace_022",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "radicalization",
+      "zh": "激进化",
+      "frequency": 3
+    },
+    {
+      "id": "peace_024",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "conflict",
+      "zh": "冲突",
+      "frequency": 3
+    },
+    {
+      "id": "peace_025",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "Central Emergency Response Fund",
+      "zh": "中央应急基金",
+      "frequency": 3
+    },
+    {
+      "id": "peace_042",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "situations of humanitarian emergencies",
+      "zh": "人道主义紧急情况",
+      "frequency": 3
+    },
+    {
+      "id": "peace_048",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "the private sector",
+      "zh": "私营部门",
+      "frequency": 3
+    },
+    {
+      "id": "peace_049",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "mental health",
+      "zh": "精神卫生",
+      "frequency": 3
+    },
+    {
+      "id": "peace_051",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "armed conflicts",
+      "zh": "武装冲突",
+      "frequency": 3
+    },
+    {
+      "id": "peace_054",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "United Nations resolutions",
+      "zh": "联合国相关决议",
+      "frequency": 3
+    },
+    {
+      "id": "peace_058",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "international financial institutions",
+      "zh": "国际金融机构",
+      "frequency": 3
+    },
+    {
+      "id": "peace_059",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "space objects",
+      "zh": "空间物体",
+      "frequency": 3
+    },
+    {
+      "id": "peace_060",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "other nuclear explosive",
+      "zh": "其他核爆炸",
+      "frequency": 3
+    },
+    {
+      "id": "peace_064",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "national authorities",
+      "zh": "国家当局",
+      "frequency": 3
+    },
+    {
+      "id": "peace_076",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "domestic law",
+      "zh": "国内法",
+      "frequency": 3
+    },
+    {
+      "id": "peace_077",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "initiatives",
+      "zh": "举措",
+      "frequency": 3
+    },
+    {
+      "id": "peace_079",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "natural disasters",
+      "zh": "自然灾害",
+      "frequency": 3
+    },
+    {
+      "id": "peace_094",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "personnel",
+      "zh": "有关人员",
+      "frequency": 3
+    },
+    {
+      "id": "environment_012",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "United Nations Resource Management",
+      "zh": "联合国资源管理",
+      "frequency": 3
+    },
+    {
+      "id": "environment_015",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "cholera outbreaks",
+      "zh": "霍乱疫情",
+      "frequency": 3
+    },
+    {
+      "id": "environment_021",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "circular economy",
+      "zh": "循环经济",
+      "frequency": 3
+    },
+    {
+      "id": "environment_026",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "The organization",
+      "zh": "儿基会",
+      "frequency": 3
+    },
+    {
+      "id": "environment_030",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Circular STEP",
+      "zh": "循环步骤",
+      "frequency": 3
+    },
+    {
+      "id": "environment_053",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "critical raw materials",
+      "zh": "关键原材料",
+      "frequency": 3
+    },
+    {
+      "id": "environment_065",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "environmental monitoring",
+      "zh": "环境监测",
+      "frequency": 3
+    },
+    {
+      "id": "environment_073",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "nutrition crisis",
+      "zh": "营养危机",
+      "frequency": 3
+    },
+    {
+      "id": "environment_085",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "international system",
+      "zh": "国际系统",
+      "frequency": 3
+    },
+    {
+      "id": "environment_091",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "resilient energy systems",
+      "zh": "能源系统",
+      "frequency": 3
+    },
+    {
+      "id": "environment_092",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "environmental defenders",
+      "zh": "环境维权者",
+      "frequency": 3
+    },
+    {
+      "id": "environment_099",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "public health emergencies",
+      "zh": "突发公共卫生事件",
+      "frequency": 3
+    },
+    {
+      "id": "human_rights_003",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "Executive Board",
+      "zh": "执行局",
+      "frequency": 3
+    },
+    {
+      "id": "human_rights_014",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "partnerships",
+      "zh": "伙伴关系",
+      "frequency": 3
+    },
+    {
+      "id": "human_rights_018",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "nutrition crisis",
+      "zh": "营养危机",
+      "frequency": 3
+    },
+    {
+      "id": "human_rights_042",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "public health emergencies",
+      "zh": "突发公共卫生事件",
+      "frequency": 3
+    },
+    {
+      "id": "health_011",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "cervical cancer",
+      "zh": "宫颈癌",
+      "frequency": 3
+    },
+    {
+      "id": "health_017",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "HIV testing",
+      "zh": "艾滋病毒检测",
+      "frequency": 3
+    },
+    {
+      "id": "health_025",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "service delivery",
+      "zh": "服务",
+      "frequency": 3
+    },
+    {
+      "id": "health_034",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "evidence base",
+      "zh": "证据基础",
+      "frequency": 3
+    },
+    {
+      "id": "health_036",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "core funding",
+      "zh": "核心供资",
+      "frequency": 3
+    },
+    {
+      "id": "health_039",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "United Nations Population Fund",
+      "zh": "联合国人口基金",
+      "frequency": 3
+    },
+    {
+      "id": "health_040",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "communicable disease",
+      "zh": "传染性疾病",
+      "frequency": 3
+    },
+    {
+      "id": "health_044",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "human rights concern",
+      "zh": "人权问题",
+      "frequency": 3
+    },
+    {
+      "id": "health_045",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Eliminate Illicit Trade in Tobacco Products",
+      "zh": "消除烟草制品",
+      "frequency": 3
+    },
+    {
+      "id": "health_046",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "member States",
+      "zh": "成员国",
+      "frequency": 3
+    },
+    {
+      "id": "health_047",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "investment cases",
+      "zh": "投资论证",
+      "frequency": 3
+    },
+    {
+      "id": "health_053",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "tobacco control",
+      "zh": "烟草控制方面",
+      "frequency": 3
+    },
+    {
+      "id": "health_058",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "HIV response",
+      "zh": "艾滋病毒",
+      "frequency": 3
+    },
+    {
+      "id": "health_059",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "urgent action",
+      "zh": "紧急行动",
+      "frequency": 3
+    },
+    {
+      "id": "health_062",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "HIV treatment",
+      "zh": "艾滋病毒治疗",
+      "frequency": 3
+    },
+    {
+      "id": "health_077",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "resource mobilization",
+      "zh": "资源调动",
+      "frequency": 3
+    },
+    {
+      "id": "health_079",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "universal health coverage",
+      "zh": "全民健康覆盖",
+      "frequency": 3
+    },
+    {
+      "id": "health_087",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the secretariat",
+      "zh": "秘书处",
+      "frequency": 3
+    },
+    {
+      "id": "health_090",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "policy brief",
+      "zh": "政策简报",
+      "frequency": 3
+    },
+    {
+      "id": "health_101",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "health systems",
+      "zh": "卫生系统",
+      "frequency": 3
+    },
+    {
+      "id": "health_102",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "public health",
+      "zh": "公共卫生",
+      "frequency": 3
+    },
+    {
+      "id": "health_105",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "epidemiological evidence",
+      "zh": "流行病学证据",
+      "frequency": 3
+    },
+    {
+      "id": "health_111",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "private sector",
+      "zh": "私营部门",
+      "frequency": 3
+    },
+    {
+      "id": "environment_002",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Environmental pressures",
+      "zh": "环境压力",
+      "frequency": 2
+    },
+    {
+      "id": "environment_004",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Gothenburg Protocol",
+      "zh": "哥德堡议定书",
+      "frequency": 2
+    },
+    {
+      "id": "environment_007",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "the economic outlook",
+      "zh": "经济前景",
+      "frequency": 2
+    },
+    {
+      "id": "environment_008",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "energy efficiency",
+      "zh": "能源效率",
+      "frequency": 2
+    },
+    {
+      "id": "environment_009",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "air pollution",
+      "zh": "空气污染",
+      "frequency": 2
+    },
+    {
+      "id": "environment_010",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "water resources",
+      "zh": "水资源",
+      "frequency": 2
+    },
+    {
+      "id": "environment_019",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "international humanitarian law",
+      "zh": "国际人道主义法",
+      "frequency": 2
+    },
+    {
+      "id": "environment_020",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "financial implications",
+      "zh": "经费问题",
+      "frequency": 2
+    },
+    {
+      "id": "environment_023",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "European Forest Institute",
+      "zh": "欧洲森林研究所",
+      "frequency": 2
+    },
+    {
+      "id": "environment_025",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "greenhouse gas",
+      "zh": "温室气体",
+      "frequency": 2
+    },
+    {
+      "id": "environment_027",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "forest products",
+      "zh": "森林产品",
+      "frequency": 2
+    },
+    {
+      "id": "environment_029",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "sexual exploitation",
+      "zh": "性剥削",
+      "frequency": 2
+    },
+    {
+      "id": "environment_031",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "a range of issues",
+      "zh": "一系列问题",
+      "frequency": 2
+    },
+    {
+      "id": "environment_034",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "national boundaries",
+      "zh": "国界",
+      "frequency": 2
+    },
+    {
+      "id": "environment_036",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "political commitment",
+      "zh": "政治承诺",
+      "frequency": 2
+    },
+    {
+      "id": "environment_037",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "humanitarian settings",
+      "zh": "人道主义环境",
+      "frequency": 2
+    },
+    {
+      "id": "environment_040",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "The digital transformation",
+      "zh": "数字化转型",
+      "frequency": 2
+    },
+    {
+      "id": "environment_044",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Ministry of Health",
+      "zh": "卫生部",
+      "frequency": 2
+    },
+    {
+      "id": "environment_046",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "States of the United Nations",
+      "zh": "联合国会员国",
+      "frequency": 2
+    },
+    {
+      "id": "environment_048",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "cluster leadership capacity",
+      "zh": "群组领导能力",
+      "frequency": 2
+    },
+    {
+      "id": "environment_051",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "The Committee on Sustainable Energy",
+      "zh": "可持续能源委员会",
+      "frequency": 2
+    },
+    {
+      "id": "environment_052",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "green economy",
+      "zh": "绿色经济",
+      "frequency": 2
+    },
+    {
+      "id": "environment_056",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "resource management systems",
+      "zh": "资源管理系统",
+      "frequency": 2
+    },
+    {
+      "id": "environment_057",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "international financial institutions",
+      "zh": "国际金融机构",
+      "frequency": 2
+    },
+    {
+      "id": "environment_059",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "treatment centres",
+      "zh": "治疗中心",
+      "frequency": 2
+    },
+    {
+      "id": "environment_060",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "energy prices",
+      "zh": "能源价格",
+      "frequency": 2
+    },
+    {
+      "id": "environment_061",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "resource efficiency",
+      "zh": "资源效率",
+      "frequency": 2
+    },
+    {
+      "id": "environment_062",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "humanitarian funding",
+      "zh": "人道主义资金",
+      "frequency": 2
+    },
+    {
+      "id": "environment_063",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "management of natural resources",
+      "zh": "自然资源管理",
+      "frequency": 2
+    },
+    {
+      "id": "environment_064",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "critical environmental issues",
+      "zh": "关键环境问题",
+      "frequency": 2
+    },
+    {
+      "id": "environment_066",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "energy sources",
+      "zh": "能源",
+      "frequency": 2
+    },
+    {
+      "id": "environment_067",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Humanitarian Access Overview",
+      "zh": "人道主义准入概览",
+      "frequency": 2
+    },
+    {
+      "id": "environment_070",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "emergency preparedness",
+      "zh": "应急准备",
+      "frequency": 2
+    },
+    {
+      "id": "environment_071",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "policy options",
+      "zh": "政策选择",
+      "frequency": 2
+    },
+    {
+      "id": "environment_074",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "normative outputs",
+      "zh": "规范性产出",
+      "frequency": 2
+    },
+    {
+      "id": "environment_075",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "environmental information",
+      "zh": "环境信息",
+      "frequency": 2
+    },
+    {
+      "id": "environment_076",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Ouest and Centre",
+      "zh": "中部省",
+      "frequency": 2
+    },
+    {
+      "id": "environment_077",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "supply chains",
+      "zh": "供应链",
+      "frequency": 2
+    },
+    {
+      "id": "environment_078",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "humanitarian response plans",
+      "zh": "人道主义应对计划",
+      "frequency": 2
+    },
+    {
+      "id": "environment_080",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "health departments",
+      "zh": "卫生部门",
+      "frequency": 2
+    },
+    {
+      "id": "environment_081",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "United Nations Centre for Trade Facilitation",
+      "zh": "联合国贸易便利",
+      "frequency": 2
+    },
+    {
+      "id": "environment_082",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "humanitarian situation",
+      "zh": "人道主义状况",
+      "frequency": 2
+    },
+    {
+      "id": "environment_084",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "Paris Agreement",
+      "zh": "巴黎协定",
+      "frequency": 2
+    },
+    {
+      "id": "environment_086",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "the International Telecommunication Union",
+      "zh": "国际电信联盟",
+      "frequency": 2
+    },
+    {
+      "id": "environment_089",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "climatic events",
+      "zh": "气候事件",
+      "frequency": 2
+    },
+    {
+      "id": "environment_093",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "draft resolution",
+      "zh": "决议草案",
+      "frequency": 2
+    },
+    {
+      "id": "environment_096",
+      "theme": "environment",
+      "theme_zh": "气候环境",
+      "en": "human health",
+      "zh": "人类健康",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_004",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "treatment centres",
+      "zh": "治疗中心",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_005",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "humanitarian funding",
+      "zh": "人道主义资金",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_006",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "education",
+      "zh": "教育机会",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_010",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "Humanitarian Access Overview",
+      "zh": "人道主义准入概览",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_012",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "international humanitarian law",
+      "zh": "国际人道主义法",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_015",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "emergency preparedness",
+      "zh": "应急准备",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_019",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "Ouest and Centre",
+      "zh": "中部省",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_021",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "humanitarian response plans",
+      "zh": "人道主义应对计划",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_023",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "health departments",
+      "zh": "卫生部门",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_025",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "health",
+      "zh": "健康",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_034",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "Ministry of Health",
+      "zh": "卫生部",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_037",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "cluster leadership capacity",
+      "zh": "群组领导能力",
+      "frequency": 2
+    },
+    {
+      "id": "human_rights_043",
+      "theme": "human_rights",
+      "theme_zh": "人权",
+      "en": "international financial institutions",
+      "zh": "国际金融机构",
+      "frequency": 2
+    },
+    {
+      "id": "health_001",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "leadership role",
+      "zh": "领导作用",
+      "frequency": 2
+    },
+    {
+      "id": "health_003",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the best health technologies",
+      "zh": "最佳医疗卫生技术",
+      "frequency": 2
+    },
+    {
+      "id": "health_004",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "important ripple effects",
+      "zh": "重大涟漪效应",
+      "frequency": 2
+    },
+    {
+      "id": "health_007",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Global Programme",
+      "zh": "全球方案",
+      "frequency": 2
+    },
+    {
+      "id": "health_009",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the Kaiser Family Foundation",
+      "zh": "凯泽家庭基金会",
+      "frequency": 2
+    },
+    {
+      "id": "health_010",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Joint United Nations Programme on HIV",
+      "zh": "艾滋病联合规划署",
+      "frequency": 2
+    },
+    {
+      "id": "health_013",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "country offices",
+      "zh": "国家办事处",
+      "frequency": 2
+    },
+    {
+      "id": "health_016",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "risk management",
+      "zh": "风险管理",
+      "frequency": 2
+    },
+    {
+      "id": "health_026",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "People’s Vaccine Alliance",
+      "zh": "人民疫苗联盟",
+      "frequency": 2
+    },
+    {
+      "id": "health_027",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "new infections",
+      "zh": "新增感染",
+      "frequency": 2
+    },
+    {
+      "id": "health_030",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the planet",
+      "zh": "地球",
+      "frequency": 2
+    },
+    {
+      "id": "health_032",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "tobacco control committee",
+      "zh": "烟草控制委员会",
+      "frequency": 2
+    },
+    {
+      "id": "health_035",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "AIDS mortality",
+      "zh": "艾滋病死亡率",
+      "frequency": 2
+    },
+    {
+      "id": "health_042",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "The International Labour Organization",
+      "zh": "国际劳工组织",
+      "frequency": 2
+    },
+    {
+      "id": "health_048",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "road map",
+      "zh": "路线图",
+      "frequency": 2
+    },
+    {
+      "id": "health_050",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the World Customs Organization",
+      "zh": "世界海关组织",
+      "frequency": 2
+    },
+    {
+      "id": "health_051",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the International Labour",
+      "zh": "国际劳工大会",
+      "frequency": 2
+    },
+    {
+      "id": "health_055",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "HIV incidence",
+      "zh": "艾滋病毒感染率",
+      "frequency": 2
+    },
+    {
+      "id": "health_056",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the Human Rights Council",
+      "zh": "人权理事会",
+      "frequency": 2
+    },
+    {
+      "id": "health_057",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "structural barriers",
+      "zh": "结构性障碍",
+      "frequency": 2
+    },
+    {
+      "id": "health_061",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Illicit Trade in Tobacco Products",
+      "zh": "烟草制品",
+      "frequency": 2
+    },
+    {
+      "id": "health_063",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "prevention services",
+      "zh": "预防服务",
+      "frequency": 2
+    },
+    {
+      "id": "health_064",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Bush Institute",
+      "zh": "布什研究所",
+      "frequency": 2
+    },
+    {
+      "id": "health_065",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "gender norms",
+      "zh": "性别规范",
+      "frequency": 2
+    },
+    {
+      "id": "health_067",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Joint United Nations Programme on HIV/AIDS",
+      "zh": "艾滋病联合规划署",
+      "frequency": 2
+    },
+    {
+      "id": "health_068",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "AIDS epidemic",
+      "zh": "艾滋病疫情",
+      "frequency": 2
+    },
+    {
+      "id": "health_069",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Digital health",
+      "zh": "数字卫生保健",
+      "frequency": 2
+    },
+    {
+      "id": "health_073",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the African Union",
+      "zh": "非洲联盟",
+      "frequency": 2
+    },
+    {
+      "id": "health_078",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "viral suppression",
+      "zh": "病毒抑制",
+      "frequency": 2
+    },
+    {
+      "id": "health_080",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "strategic priority",
+      "zh": "战略优先事项",
+      "frequency": 2
+    },
+    {
+      "id": "health_081",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Plan of Action",
+      "zh": "行动计划",
+      "frequency": 2
+    },
+    {
+      "id": "health_088",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "State and government",
+      "zh": "政府首脑",
+      "frequency": 2
+    },
+    {
+      "id": "health_093",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "The World Meteorological Organization",
+      "zh": "世界气象组织",
+      "frequency": 2
+    },
+    {
+      "id": "health_094",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "the International Telecommunication Union",
+      "zh": "国际电信联盟",
+      "frequency": 2
+    },
+    {
+      "id": "health_098",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "stakeholder task team",
+      "zh": "专责小组",
+      "frequency": 2
+    },
+    {
+      "id": "health_099",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "punitive laws",
+      "zh": "惩罚性法律",
+      "frequency": 2
+    },
+    {
+      "id": "health_100",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "The UNAIDS secretariat",
+      "zh": "秘书处",
+      "frequency": 2
+    },
+    {
+      "id": "health_103",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "The Government of Nepal",
+      "zh": "尼泊尔政府",
+      "frequency": 2
+    },
+    {
+      "id": "health_112",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "Cultural Organization",
+      "zh": "文化组织",
+      "frequency": 2
+    },
+    {
+      "id": "health_113",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "community systems",
+      "zh": "社区系统",
+      "frequency": 2
+    },
+    {
+      "id": "health_116",
+      "theme": "health",
+      "theme_zh": "卫生与健康",
+      "en": "International Labour Organization",
+      "zh": "国际劳工组织",
+      "frequency": 2
+    },
+    {
+      "id": "culture_001",
+      "theme": "culture",
+      "theme_zh": "文化教育",
+      "en": "Draft decision",
+      "zh": "决定草案",
+      "frequency": 2
+    },
+    {
+      "id": "culture_002",
+      "theme": "culture",
+      "theme_zh": "文化教育",
+      "en": "The Executive Board",
+      "zh": "执行局",
+      "frequency": 2
+    },
+    {
+      "id": "peace_096",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "the Cold War",
+      "zh": "冷战",
+      "frequency": 1
+    },
+    {
+      "id": "peace_097",
+      "theme": "peace",
+      "theme_zh": "和平与安全",
+      "en": "nuclear non-proliferation",
+      "zh": "核不扩散",
+      "frequency": 1
+    }
+  ]
+}
